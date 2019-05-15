@@ -1,6 +1,4 @@
-Listing 3.3: An improved README file for the sample app.
-README.md
- # Ruby on Rails Tutorial sample application
+# Ruby on Rails Tutorial sample application
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
